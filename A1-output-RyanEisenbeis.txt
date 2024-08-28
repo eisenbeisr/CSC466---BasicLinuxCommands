@@ -1,0 +1,22 @@
+Ubuntu Commands Used:
+1. pwd
+2. ls
+3. cd Desktop/
+4. cd ..
+5. cd Documents/
+6. touch test_file.txt
+7. nano test_file.txt
+8. cat test_file.txt
+9. mkdir TestFiles
+10. cp test_file.txt TestFiles
+11. rm test_file.txt Documents
+12. mv test_file.txt Documents
+13. rmdir TestFiles
+14. ls -l
+15. chmod 777 test_file.txt
+16. whoami
+17. su
+18. exit
+19. sudo groupadd test_group
+20. ping 127.0.0.1
+21. history
